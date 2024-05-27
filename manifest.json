@@ -3,7 +3,7 @@
     "short_name": "Nikhil Mahendran",
     "description": "",
     "start_url": "http://127.0.0.1:5500/",
-    "display": "",
+    "display": "standalone",
     "background_color": "blue",
     "theme_color": "red",
     "icons": [
